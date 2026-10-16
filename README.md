@@ -66,7 +66,7 @@ The dashboard provides a high-level view of the data job market, allowing users 
 1. Clone or download this repository:
 
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/data-jobs-powerbi-dashboard.git
+   git clone https://github.com/Harsh-Devv/Power-BI-Dashboard.git
 
    ```
 
